@@ -16,6 +16,6 @@ spec:
       autoscaling.knative.dev/minScale: "1"
   source:
     git:
-      url: https://github.com/sample-accelerators/joels-second-api-provider
+      url: https://github.com/jrshaffe/joels-second-api-provider
       ref:
         branch: main
